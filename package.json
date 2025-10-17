@@ -1,5 +1,5 @@
 {
-  "name": "@turingviz/jpush-react-native",
+  "name": "@turingviz/jpush-react-native-intl",
   "description": "React Native JPush component for Android and iOS",
   "homepage":"https://github.com/Turingviz/jpush-react-native",
   "main": "index.js",
