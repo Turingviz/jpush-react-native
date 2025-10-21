@@ -6,7 +6,7 @@
   "types": "index.d.ts",
   "license": "ISC",
   "author": "turingviz",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "repository": {
     "type": "git",
     "url": "https://github.com/Turingviz/jpush-react-native"
